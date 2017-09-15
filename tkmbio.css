@@ -1,0 +1,73 @@
+h1{
+	background-color
+}
+
+body {
+	background-color: #efeee7;
+	margin: 0;
+  	padding: 0;
+  	font-color: #333333;
+  	font-style: Georgia,"Times New Roman", Times,serif;
+}
+h1
+{
+ font-color:#eee;
+ font-size:28px;
+ padding-top: 25px;
+ padding-bottom: 25px;
+ padding-left:25px;
+}
+
+
+
+ h2 {
+ font-color:#eee;
+ font-size:24px;
+
+ padding-top: 25px;
+ padding-bottom: 25px;
+ padding-left:25px;
+}
+.container{
+width:1024px;
+margin:0 auto;
+font:bold;
+
+}
+.container111{
+width:600px;
+margin: auto;
+float:left;
+
+
+}
+#bio-image {
+	width:200px;
+	float:left;
+	vertical-align: top;
+
+}
+
+}
+#contact-info {
+		float:left;
+		width:30%;
+
+}
+#main-bio {
+		float:left;
+		width:70%;
+		margin-left: 30px;
+}
+a{
+	color:#d21034;
+}
+p {
+    font-size: 1.1em;
+}
+
+Be sure to include alt text in all images
+#main-bio should have a width of 70%.
+
+Adjust the line height so it is 1.5 times the size of the font.
+Make the link color #d21034 .
